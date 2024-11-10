@@ -22,6 +22,8 @@ Simple User Interface: Console-based interface for easy access and use.
 🚀 Getting Started
 To run the project locally:
 
+Download The file and make sure to Run
+
 📞 Contact
 For any questions or suggestions, reach out to us:
 
